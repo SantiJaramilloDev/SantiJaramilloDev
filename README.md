@@ -46,7 +46,6 @@ Soy una persona comprometida, adaptable y con capacidad para asumir nuevos retos
 
 - 🔗 [Portafolio](https://santiago-frontend-developer.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/brayan-santiago-jaramillo-am%C3%A9zquita-05256726b/)
-- 📁 [Repositorios en GitHub](https://github.com/SantiJaramillo)
 
 ---
 
