@@ -57,11 +57,4 @@ Soy una persona comprometida, adaptable y con capacidad para asumir nuevos retos
 
 ---
 
-### 📈 Estadísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiJaramillo&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiJaramillo&show_icons=true&theme=tokyonight)
-
----
-
 <p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
